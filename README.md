@@ -3,6 +3,14 @@
 ## Descripción
 Este proyecto reúne información sencilla sobre los animales, sus características y la importancia de cuidarlos y respetarlos.
 
+## Tipos de animales
+
+- 🐱 Mamíferos
+- 🦜 Aves
+- 🐢 Reptiles
+- 🐸 Anfibios
+- 🐟 Peces
+
 ## Objetivo
 Conocer más sobre los animales, sus diferentes características y la importancia de protegerlos.
 
