@@ -11,6 +11,10 @@ Este proyecto reúne información sencilla sobre los animales, sus característi
 - 🐸 Anfibios
 - 🐟 Peces
 
+## Cuidado de los animales
+
+Los animales necesitan alimento, agua, un lugar seguro y atención. También es importante respetarlos, evitar el maltrato y cuidar los espacios donde viven.
+
 ## Objetivo
 Conocer más sobre los animales, sus diferentes características y la importancia de protegerlos.
 
